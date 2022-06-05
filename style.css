@@ -1,0 +1,27 @@
+
+.button{
+    font-weight: bold;
+    color:black;
+    padding: 25px;
+    margin: 6px 3px;
+    border:1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color:rgb(173, 170, 182);
+    
+    /* color: rgb(114, 139, 131); */
+    /* box-shadow:0 90px rgba(rgb(203, 201, 201), rgb(208, 216, 208), rgb(169, 169, 194), alpha); */
+}
+.text-button-clear{
+    padding: 25px 11px;
+
+}
+.text-button-enter{
+    padding:25px 14px;
+}
+.gray-button{
+   background-color:gray;
+}
+.gr-button{
+background-color:green;
+}
